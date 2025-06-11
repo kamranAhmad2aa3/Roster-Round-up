@@ -39,11 +39,13 @@ https://github.com/kamranAhmad2aa3/Roster-Round-Up/assets/68790390/your-video-id
 
 ## App Screenshots:
 
-![WhatsApp Image 2025-06-10 at 22 46 30_7622a90e](https://github.com/user-attachments/assets/5a9a88a7-33f3-464a-820e-503a1fca9043)
-![WhatsApp Image 2025-06-10 at 22 46 30_8e66c053](https://github.com/user-attachments/assets/c4451b69-57ee-47b2-ae79-fc1c1d7f0b2a)
-![WhatsApp Image 2025-06-10 at 22 46 31_dfdbf31f](https://github.com/user-attachments/assets/65c09b02-6067-405a-9534-5e7b270eba36)
-![WhatsApp Image 2025-06-10 at 22 46 31_a6c8cc29](https://github.com/user-attachments/assets/65000121-02f3-4ca5-9cbb-1fdede6ab6da)
-![WhatsApp Image 2025-06-10 at 22 46 30_a5052992](https://github.com/user-attachments/assets/2b3536d1-4de4-400d-8143-2c3a4c67d889)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a9a88a7-33f3-464a-820e-503a1fca9043" width="300" />
+  <img src="https://github.com/user-attachments/assets/c4451b69-57ee-47b2-ae79-fc1c1d7f0b2a" width="300" />
+  <img src="https://github.com/user-attachments/assets/65c09b02-6067-405a-9534-5e7b270eba36" width="300" />
+  <img src="https://github.com/user-attachments/assets/65000121-02f3-4ca5-9cbb-1fdede6ab6da" width="300" />
+  <img src="https://github.com/user-attachments/assets/2b3536d1-4de4-400d-8143-2c3a4c67d889" width="300" />
+</p>
 
 ---
 
